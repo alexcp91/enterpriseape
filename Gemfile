@@ -13,7 +13,7 @@ group :development do
 end
 
 gem 'bootstrap-sass', '~> 3.3.3'
-
+gem 'devise', '~> 3.4.1'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
